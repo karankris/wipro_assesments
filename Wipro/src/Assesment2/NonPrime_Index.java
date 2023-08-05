@@ -1,5 +1,6 @@
 package Assesment2;
-public class array_index {
+public class NonPrime_Index {
+	//Program to add the non prime index in java
 public static void main(String[] args) {
      int sum=0;
      int a[] = {10,20,30,40,50,60,70,80,90,100};

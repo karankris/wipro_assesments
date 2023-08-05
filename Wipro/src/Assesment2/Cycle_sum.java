@@ -1,8 +1,8 @@
 package Assesment2;
 public class Cycle_sum {
     public static void main(String[] args) {
-        
-    int input1=582109;
+        // logic: (1+2+3)+(2+3)+(3)-->14
+    int input1=123;
     String str = Integer.toString(input1);      
                   int sum=0;
         for(int i=0; i<str.length();i++)

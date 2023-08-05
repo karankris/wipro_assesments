@@ -1,4 +1,5 @@
 package Assesment2;
+//(1+2+4)+(2+4)+(4)
 public class Rev {
     public static void main(String[] args) {
         int num= 124,r=0,sum=0,rev=0;

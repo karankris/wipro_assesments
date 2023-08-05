@@ -1,7 +1,8 @@
 package Assesment2;
 public class Decrement
 {
-    
+ //logic decrement--> 11,3,1 -- 12,2 
+//output1= 2 pairs of decrement numbers output2 = 3 longest decrement pair count
     public static void main(String[] args) {
         int arr[]={11,3,1,4,7,8,12,2,3,7};
            int i2 = 10;
@@ -33,7 +34,7 @@ public class Decrement
         {
             longval++;
         }
-        System.out.println("value is "+spikec+" "+longval);
+        System.out.println("Number of Decrement pairs: "+spikec+ "\nLongest pair count is: "+longval);
    
   }
 
